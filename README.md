@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://leelaa.cn"><img src="https://img.shields.io/badge/Blog-leelaa.cn-blueviolet?style=flat-square&logo=wordpress"></a>
   <a href="https://twitter.com/leelaacn"><img src="https://img.shields.io/badge/Twitter-@admin8756-blue?style=flat-square&logo=twitter"></a>
-  <a href="mailto:leedaisen@hotmail.com"><img src="https://img.shields.io/badge/Email-admin8756%40example.com-red?style=flat-square&logo=gmail"></a>
+  <a href="mailto:leedaisen@hotmail.com"><img src="https://img.shields.io/badge/Email-admin8756%40hotmail.com-red?style=flat-square&logo=gmail"></a>
 </p>
 
 <h2>🌟 Skills & Expertise</h2>
