@@ -26,9 +26,6 @@
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="Babel">
   </a> 
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/CanvasJS-FFA117?style=for-the-badge&logo=canvasjs&logoColor=white" alt="CanvasJS">
-  </a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
   </a>
