@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://leelaa.cn" target="blank"><img src="https://img.shields.io/badge/blog/leelaa.cn-blueviolet?logo=blogger&style=for-the-badge" alt="leelaacn" /></a>
   <a href="https://twitter.com/leelaacn" target="blank"><img src="https://img.shields.io/twitter/follow/leelaacn?logo=twitter&style=for-the-badge" alt="leelaacn" /></a>
-  <a href="mailto:leedaisen@hotmail.com" target="blank"><img src="https://img.shields.io/badge/Mail/Hotmail-blue?logo=gmail&style=for-the-badge" alt="leedaisen@hotmail.com" /></a>
+  <a href="mailto:leedaisen@hotmail.com" target="blank"><img src="https://img.shields.io/badge/mail/Hotmail-blue?logo=gmail&style=for-the-badge" alt="leedaisen@hotmail.com" /></a>
 </p>
 
 <p align="center">
