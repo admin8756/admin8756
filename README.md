@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://leelaa.cn/pwa-256x256.png" alt="admin8756" width="256" height="256">
+  <img src="https://leelaa.cn/pwa-256x256.png" alt="admin8756" width="128" height="128">
 </p>
 
 <h1 align="center">Hi there, I'm admin8756! <img src="https://komarev.com/ghpvc/?username=admin8756&label=Profile%20views&color=0e75b6&style=flat" alt="admin8756" />  </p></h1>
