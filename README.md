@@ -116,5 +116,5 @@
 
 <p style="display: flex; height: 200px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=admin8756&layout=compact&theme=dracula" alt="admin8756's top languages" style="height: 200px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=admin8756&show_icons=true&count_private=true&theme=dracula" alt="admin8756's GitHub stats" style="height: 200px;">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=admin8756&show_icons=true&count_private=true&theme=dracula" alt="admin8756's GitHub stats" style="height: 200px;"> -->
 </p>
