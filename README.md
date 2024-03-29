@@ -14,6 +14,12 @@
   <a href="mailto:leedaisen@hotmail.com" target="blank"><img src="https://img.shields.io/badge/Mail/Hotmail-blue?logo=gmail&style=for-the-badge" alt="leedaisen@hotmail.com" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer">
+    <img src="https://github-profile-trophy.vercel.app/?username=admin8756&row=1&column=5" alt="admin8756" />
+  </a>
+</p>
+
 <h2>🌟 Languages and Tools</h2>
 
 <p align="center"> 
@@ -96,13 +102,19 @@
 
 <h2>💼 Projects</h2>
 
-<ul>
-  <li> <a href="https://github.com/admin8756/leelaa-admin"> Project 1 </a>: leelaa-admin</li>
-  <li> <a href="https://github.com/admin8756/wedding-mp"> Project 2 </a> : wedding-mp</li>
-</ul>
+
+<div  style="display: flex; height: 200px;">
+  <a href="https://github.com/admin8756/wedding-mp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=admin8756&repo=wedding-mp&theme=gruvbox" alt="wedding-mp" style="height: 100%;">
+  </a>
+  <a href="https://github.com/admin8756/leelaa-admin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=admin8756&repo=leelaa-admin&theme=gruvbox" alt="leelaa-admin" style="height: 100%;">
+  </a>
+</div>
 
 <h2>📊 GitHub Stats</h2>
-		
-<div style="display: flex; width:100%;">
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=admin8756&layout=compact&theme=dracula" alt="admin8756's top languages" style="flex: 1; height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=admin8756&show_icons=true&count_private=true&theme=dracula" alt="admin8756's GitHub stats" style="flex: 1; height: 200px;">
 </div>
